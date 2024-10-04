@@ -8,6 +8,8 @@
 [![wiki](https://img.shields.io/badge/documentation-wiki-74aad6?style=for-the-badge)](https://wiki.minestom.net/)
 [![discord-banner](https://img.shields.io/discord/706185253441634317?label=discord&style=for-the-badge&color=7289da)](https://discord.gg/pkFRvqB)
 
+THIS IS NOT THE OFFICIAL MINESTOM PROJECT BUT A FORK!!!!!! PLEASE VISIT https://github.com/Minestom/Minestom
+
 Minestom is an open-source library that enables developers to create their own Minecraft server software, without any code from Mojang.
 
 The main difference between Mojang's vanilla server and a minestom-based server, is that ours does not contain any features by default!
@@ -18,7 +20,7 @@ This is a developer API not meant to be used by end-users. Replacing Bukkit/Forg
 # Table of contents
 - [Install](#install)
 - [Usage](#usage)
-- [Why Minestom?](#why-minestom)
+- [Why BetterMinestom?](#why-minestom)
 - [Advantages & Disadvantages](#advantages-and-disadvantages)
 - [API](#api)
 - [Credits](#credits)
